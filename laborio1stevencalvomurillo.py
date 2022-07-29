@@ -4,4 +4,5 @@ apellidos=["Leithgoe","Dobney","Pinckstone","Fehners","Deary","Crumbleholme","Ko
 departamento=["Operativos","Administrativos","Socios","Operativos","Administrativos","Operativos","Administrativos","Socios","Administrativos","Operativos","Administrativos","Socios","Administrativos","Operativos","Socios","Administrativos","Operativos","Socios","Administrativos","Operativos","Socios","Operativos","Administrativos","Socios","Operativos","Administrativos","Operativos","Administrativos","Socios","Administrativos","Operativos","Administrativos"]
 salarios=[551690,431298,795406,890987,1160645,1000154,652182,1131439,391010,1113810,437702,771209,938783,410205,664115,440158,1066497,645260,1135481,419851,1128536,530349,837626,529910,512743,1132685,1085963,798176,742414,895712,872395,1125305]
 
-for a in range(len())
+for a,b,c,d,e in zip(id,Nombres,apellidos,departamento,salarios):
+    
