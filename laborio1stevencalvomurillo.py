@@ -1,3 +1,9 @@
+"""Cree un algoritmo, que le permita crear el aumento de los empleados dependiendo del 
+departamento. Se debe imprimir una tabla con los datos de los empleados, el valor del 
+aumento y el monto final después del aumento. Por último debe imprimir el valor total de la 
+planilla antes del aumento, el valor total de los aumentos y la totalidad de la planilla al aplicar 
+los aumentos"""
+
 id=["6564045883","828613192","1855107112","1602426694","9214272107","2638542857","4160695396","6848447102","6795405079","1377375633","2097476031","5515500717","2216847585","1227435568","4999253399","6588423799","5556458995","5372980370","660062178","5175494899","8786387499","5208261014","9450511055","6748073685","6177508367","8264795072","6738682883","6198718611","956945171","5245421879","4281506489","6835544449"]
 Nombres=["Lindi","Abram","Salomi","Estel","Kathlin","Adina","Raeann","Bentlee","Danella","Jenine","Davon","Carlene","Manon","Robinett","Krissy","Whit","Trev","Zeb","Tobie","Veronica","Val","Brenn","Peg","Ania","Cleopatra","Corney","Glenine","Jessamyn","Chantalle","Montague","Zora","Jaclyn"]
 apellidos=["Leithgoe","Dobney","Pinckstone","Fehners","Deary","Crumbleholme","Kovacs","Davion","Veronique","Doerffer","Vowells","Baughn","Carletto","Copland","Bringloe","Armell","Deppe","Jacobsohn","Maggorini","Shier","Morilla","Davsley","Lawless","Arrigucci","Battersby","Karlolczak","Robken","Nairns","Kubyszek","Wagenen","Glasbey","Colisbe"]
@@ -7,12 +13,46 @@ print("Empresa chapulin")
 aumento1=2.32
 aumento2=2.35
 aumento3=1.17
-def departamento():
+
+def departament():
+    print("Cedúla""        ""Nombre""             "" Apellidos""          "" Departamento""           ""Salario""\n")
     for a,b,c,d,e in zip(id,Nombres,apellidos,departamento,salarios):
+            print()
+departament()
+
+def compa():
+    for f in range(len("Nombres")):
+        if Nombres==nombre:
+            for f in range(len("apellidos")):
+                apellidos==apellido:
+                for g in range(len(departamento)):
+
+compa()
+
+def calcul():
+    for h in range (len())
+    
+h=0
+fg=0
+
+nombre=[]
+apellido=[]
+area=[]
+
+while h==fg:
+    
+    nombre+=[input(" Cuál es su nombre ")]
+    apellido+=[input(" Su apellido es ")]
+    area+=[input(" Cuál es su area de trabajo ")]
+    desicion=input(" Desea continuar si/no ")
+    if desicion == "si":
+        fg=1
 
 
 
-departamento()
+    
+
+
 
 
 
