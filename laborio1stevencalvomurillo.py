@@ -38,6 +38,8 @@ resolucion()
 
 def aument_salario():
     areasocios["socios"]=
+    areaadministrativo["administrativo"]=
+    areaoperativos["operativos"]
 
 aument_salario()
 
