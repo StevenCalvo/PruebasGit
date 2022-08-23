@@ -32,27 +32,27 @@ impresion()
 
 def resolucion ():
     for f in nombre:
-        print(id[Nombres.index(f)],Nombres[Nombres.index(f)],apellidos[Nombres.index(f)],departamento[Nombres.index(f)],salarios[Nombres.index(f)])
+        print(identificacion[Nombres.index(f)],Nombres[Nombres.index(f)],apellidos[Nombres.index(f)],departamento[Nombres.index(f)],salarios[Nombres.index(f)])
 
 resolucion()
 
-def aument_salario():
+"""def aument_salario():
     areasocios["socios"]=
     areaadministrativo["administrativo"]=
-    areaoperativos["operativos"]
+    areaoperativos["operativos"]=
 
-aument_salario()
+aument_salario()"""
 
 while h==fg:
     print("**********************************************************************************")
     nombre+=[input(" Cuál es el nombre ")]
-    area+=[input(" Es salario es ")]
+    area+=[input(" El salario es ")]
     print("**********************************************************************************")
     desicion=input(" Desea continuar si/no ")
     if desicion == "no":
         fg=1
 resolucion()
-aument_salario()
+"""aument_salario()"""
 
 
 
